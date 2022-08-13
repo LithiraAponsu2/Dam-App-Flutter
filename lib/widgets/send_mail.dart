@@ -17,10 +17,10 @@ Future sendEmail() async {
     },
     body: json.encode(
       {
-        'service_id': '{your_service_id}',
+        'service_id': '{your_service_id}',  // remove braces
         'template_id': '{your_template_id}',
-        'user_id': 'your_user_id',
-        'accessToken': 'your_access_id',
+        'user_id': '{your_user_id}',
+        'accessToken': '{your_access_id}',
         'template_params': {
           'subject_date_time': formattedDate,
           '0': 'Reservoir Elevation: ${data[0].toStringAsFixed(3)}',
