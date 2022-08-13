@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "898805648001",
+    "firebase_url": "https://dam-project-1-default-rtdb.firebaseio.com",
+    "project_id": "dam-project-1",
+    "storage_bucket": "dam-project-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898805648001:android:5530d1d2176808725ddb80",
+        "android_client_info": {
+          "package_name": "com.example.dam_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898805648001-a2tnm1eoa5m5p07ldn945ogesafbr8k3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQD-If5AOjoRmGiuGVocjITexqdZXf5pc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898805648001-a2tnm1eoa5m5p07ldn945ogesafbr8k3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

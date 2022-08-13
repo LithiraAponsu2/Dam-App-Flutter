@@ -1,0 +1,2 @@
+double? deviceHeight;
+double? deviceWidth;
