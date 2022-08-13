@@ -17,10 +17,10 @@ Future sendEmail() async {
     },
     body: json.encode(
       {
-        'service_id': 'service_4bual6k',
-        'template_id': 'template_mfscfmc',
-        'user_id': 'Z5Th09Zcjl2tEQ4wO',
-        'accessToken': 'ECbebTDFKYkIKgoKZEQyf',
+        'service_id': '{your_service_id}',
+        'template_id': '{your_template_id}',
+        'user_id': 'your_user_id',
+        'accessToken': 'your_access_id',
         'template_params': {
           'subject_date_time': formattedDate,
           '0': 'Reservoir Elevation: ${data[0].toStringAsFixed(3)}',
