@@ -19,5 +19,5 @@ Total Discharge: ${data[9].toStringAsFixed(3)}
 Inflow: ${data[10].toStringAsFixed(3)}''';
 
 void sendSMS() {
-  launchUrlString('sms:+94769666748?body=$smsBody');
+  launchUrlString('sms:{your_default_phone_number}?body=$smsBody');
 }
