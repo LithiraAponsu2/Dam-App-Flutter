@@ -16,6 +16,7 @@ This repository contains the code for an app developed during a 10-week training
 
 ## Images
 
-![Uploading Dam_App.png…]()
+![Dam_App](https://github.com/LithiraAponsu2/Dam-App-Flutter/assets/95391677/7cd20b1a-712e-4bfb-bf58-4d54f20030f4)
+
 
 
